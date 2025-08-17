@@ -7,6 +7,7 @@
   - Lista Encadeada <br>
   - Pilha <br>
   - Fila <br>
+  - Árvore (Binária e de Busca)
 </div>
 
 ---
